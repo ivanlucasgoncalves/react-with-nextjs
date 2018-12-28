@@ -21,7 +21,6 @@ class NextApp extends App {
 	}
 
 	render({ Component, pageProps } = this.props) {
-		console.log(this.props)
 		return (
 			<Container>
 				<header>
